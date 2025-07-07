@@ -7,7 +7,7 @@ When I saw the actual price I wanted to see if I could replicate this using an A
 ## PWM diagram:
 ![PWM diagram with different behaviours](https://github.com/ambrmart/arduino-rc-launch-control/blob/main/img/img000.jpg?raw=true)
 
-## Adjustable parmeters
+## Adjustable parameters
 |Variable|Type|Description|
 | -------- | ------- | ------- |
 |`calibration`|boolean|Enables calibration mode|
